@@ -52,6 +52,9 @@ This is a Landmark Detection WebApp. The main theme of this project is find the 
 
 
 # Technologies Used
+![Screenshot (453)](https://user-images.githubusercontent.com/84491967/153865299-ab30e468-0423-49e7-9f27-f727ee6ccf7c.png)
+
+![Screenshot (454)](https://user-images.githubusercontent.com/84491967/153865414-3f20b9b6-ca2b-4505-a81d-1b5af5c33ec8.png)
 
 
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities or collabration, shoot an email at pvmanaf02@gmail.com
