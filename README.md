@@ -7,7 +7,7 @@
 
 # About
 
-This is a Landmark Detection  WebApp(https://26815.gradio.app)
+This is a Landmark Detection  WebApp(https://43266.gradio.app/)
 
 # Objective: 
 This is a Google Lens Landmark Detection. If we upload a photo of a place, this web app give the name of that place
