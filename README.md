@@ -52,7 +52,7 @@ This is a Landmark Detection WebApp. The main theme of this project is find the 
 
 
 # Technologies Used
-![Scikit_learn_logo_small](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)
+
 
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities or collabration, shoot an email at pvmanaf02@gmail.com
-tion
+
